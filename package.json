@@ -1,7 +1,7 @@
 {
-  "name": "dummy",
-  "version": "0.0.0",
-  "private": true,
+  "name": "ember-computed-remember",
+  "version": "0.1.0",
+  "private": false,
   "directories": {
     "doc": "doc",
     "test": "tests"
