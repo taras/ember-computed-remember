@@ -24,7 +24,7 @@ jumbo.set('name', 'Jumbo Sr');
 jumbo.set('age', 80);
 
 jumbo.get('name');
-> Jumbo Sr
+// > Jumbo Sr
 
 jumbo.get('remembered.name');
 // > Jumbo
